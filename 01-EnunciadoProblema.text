@@ -1,0 +1,15 @@
+TAREA: Desarrollo de un Sistema de Gestión de Estudiantes (20 puntos)
+Objetivo:
+Desarrollar una interfaz gráfica en Python utilizando Tkinter y SQLite3 que permita gestionar una lista de
+estudiantes con los siguientes campos:
+• Nombre
+• Edad
+• Carrera
+    Requisitos funcionales (cada ítem vale 5 puntos):
+1. (5 pts) Permitir el registro de nuevos estudiantes mediante un formulario con campos nombre,
+edad y carrera, con validaciones correspondientes.
+2. (5 pts) Implementar la visualización de todos los estudiantes registrados en un Listbox o Text,
+mostrando los datos de manera clara.
+3. (5 pts) Agregar una funcionalidad de búsqueda por nombre, mostrando las coincidencias
+encontradas.
+4. (5 pts) Implementar la posibilidad de modificar la carrera de un estudiante ingresando su ID.
